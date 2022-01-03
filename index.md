@@ -1,3 +1,4 @@
+# Jakob Moder
 ## About
 
 * Nut free
@@ -5,5 +6,9 @@
 * Milk free
 * Vegetarian
 
-## Acknowledgments
+## Publications
+
+## Patents
+
+## Contact
 
