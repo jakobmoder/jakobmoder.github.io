@@ -6,20 +6,21 @@ Before that I have obtained a PhD in Mechanical Engineering und Numerical Mathem
 
 ## Publications
 
-**Calibrating BEV and HEV Powertrains for Dynamic Performance Targets**,  Ernst Winklhofer, Harald Philipp, Anna Poms, Thomas Platzer, Mario Propst, Jakob Moder, AVL List GmbH, 2021, https://doi.org/10.4271/2021-24-0100
+**Calibrating BEV and HEV Powertrains for Dynamic Performance Targets**,  Ernst Winklhofer, Harald Philipp, Anna Poms, Thomas Platzer, Mario Propst, Jakob Moder, AVL List GmbH, 2021, [https://doi.org/10.4271/2021-24-0100](https://doi.org/10.4271/2021-24-0100)
 
-**Lubrication Regime classification of hydrodynamic journal bearings by machine learning using Torque Data**, J. Moder, P. Bergmann, F. Grün, Lubricants, 2018, https://doi.org/10.3390/lubricants6040108
+**Lubrication Regime classification of hydrodynamic journal bearings by machine learning using Torque Data**, J. Moder, P. Bergmann, F. Grün, Lubricants, 2018, [https://doi.org/10.3390/lubricants6040108](https://doi.org/10.3390/lubricants6040108)
 
 **Numerical and experimental methods for the analysis of alternative tribosystems in highly loaded machine elements**, J. Moder, PhD-Thesis, Montanuniversitaet Leoben, 2018
 
-**A modelling framework for the simulation of lubricated and dry line contacts** Tribology International, J. Moder, F. Grün, I. Gódor, 2018, https://doi.org/10.1016/j.triboint.2017.12.011
+**A modelling framework for the simulation of lubricated and dry line contacts** Tribology International, J. Moder, F. Grün, I. Gódor, 2018, [https://doi.org/10.1016/j.triboint.2017.12.011](https://doi.org/10.1016/j.triboint.2017.12.011)
 
-**Effect of temperature on wear and tribofilm formation in highly loaded DLC-steel line contacts**, J. Moder, F. Grün, F. Summer, T. Gasperlmair, M. Andritschky, Tribology International, 2018, https://doi.org/10.1016/j.triboint.2018.02.014
+**Effect of temperature on wear and tribofilm formation in highly loaded DLC-steel line contacts**, J. Moder, F. Grün, F. Summer, T. Gasperlmair, M. Andritschky, Tribology International, 2018, [https://doi.org/10.1016/j.triboint.2018.02.014](https://doi.org/10.1016/j.triboint.2018.02.014)
 
 **Application of high performance composite polymers with steel counterparts in dry rolling/sliding contacts**, 
-J. Moder, F. Grün, F. Summer, M. Kohlhauser, M. Wohlfahrt, Polymer Testing, 2018, https://doi.org/10.1016/j.polymertesting.2018.01.009
+J. Moder, F. Grün, F. Summer, M. Kohlhauser, M. Wohlfahrt, Polymer Testing, 2018, [https://doi.org/10.1016/j.polymertesting.2018.01.009](https://doi.org/10.1016/j.polymertesting.2018.01.009)
 
-**A novel two-disc machine for high precision friction assessment**, J. Moder, F. Grün, M. Stoschka, I. Gódor , Advances in Tribology, 2017, https://doi.org/10.1155/2017/8901907
+**A novel two-disc machine for high precision friction assessment**, J. Moder, F. Grün, M. Stoschka, I. Gódor , Advances in Tribology, 2017, [https://doi.org/10.1155/2017/8901907
+](https://doi.org/10.1155/2017/8901907)
 
 
 ## Patents
