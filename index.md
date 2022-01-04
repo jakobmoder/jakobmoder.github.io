@@ -6,7 +6,9 @@ Before that I have obtained a PhD in Mechanical Engineering und Numerical Mathem
 
 ## Publications
 
-**Calibrating BEV and HEV Powertrains for Dynamic Performance Targets**,  Ernst Winklhofer, Harald Philipp, Anna Poms, Thomas Platzer, Mario Propst, Jakob Moder, AVL List GmbH, 2021, [https://doi.org/10.4271/2021-24-0100](https://doi.org/10.4271/2021-24-0100)
+**Analyse und Optimierungstechniken für hybride Fahrzeugantriebe**, Ernst Winklhofer, Alois Hirsch, Thomas Platzer, Jakob Moder, ATZextra, 2021, [https://www.springerprofessional.de/en/atzextra-2-2021/19166882](https://www.springerprofessional.de/en/atzextra-2-2021/19166882)
+
+**Calibrating BEV and HEV Powertrains for Dynamic Performance Targets**,  Ernst Winklhofer, Harald Philipp, Anna Poms, Thomas Platzer, Mario Propst, Jakob Moder, 15th International Conference on Engines & Vehicles, 2021, [https://doi.org/10.4271/2021-24-0100](https://doi.org/10.4271/2021-24-0100)
 
 **Lubrication Regime classification of hydrodynamic journal bearings by machine learning using Torque Data**, J. Moder, P. Bergmann, F. Grün, Lubricants, 2018, [https://doi.org/10.3390/lubricants6040108](https://doi.org/10.3390/lubricants6040108)
 
