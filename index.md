@@ -6,7 +6,7 @@ Before that I have obtained a PhD in Mechanical Engineering und Numerical Mathem
 
 ## Publications
 
-**Analyse und Optimierungstechniken für hybride Fahrzeugantriebe**, Ernst Winklhofer, Alois Hirsch, Thomas Platzer, Jakob Moder, ATZextra, 2021, [https://www.springerprofessional.de/en/atzextra-2-2021/19166882](https://www.springerprofessional.de/en/atzextra-2-2021/19166882)
+**Analyse und Optimierungstechniken für hybride Fahrzeugantriebe**, Ernst Winklhofer, Alois Hirsch, Thomas Platzer, Jakob Moder, ATZextra, 2021, [https://www.springerprofessional.de/en/analyse-und-optimierungstechniken-fuer-hybride-fahrzeugantriebe/19166890](https://www.springerprofessional.de/en/analyse-und-optimierungstechniken-fuer-hybride-fahrzeugantriebe/19166890)
 
 **Calibrating BEV and HEV Powertrains for Dynamic Performance Targets**,  Ernst Winklhofer, Harald Philipp, Anna Poms, Thomas Platzer, Mario Propst, Jakob Moder, 15th International Conference on Engines & Vehicles, 2021, [https://doi.org/10.4271/2021-24-0100](https://doi.org/10.4271/2021-24-0100)
 
