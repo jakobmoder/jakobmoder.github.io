@@ -1,8 +1,8 @@
 
 
 ## About
-Within my last position I have benn working as a Devlopment Engineer within AVL Group on a new Piezoelectric Torque Sensor mainly for applications in Automotive and Racing. Specifically my taks where the creation of methodolgies for calibration, processing, drift correction and the design of software and algorithms which utilize the raw data from the sensor in order to create valuable information for the end-user.
-Before that I have obtained a PhD in Mechanical Engineering und Numerical Mathematics at Montauniversitaet Leoben. Within the scope of this thesis I have benn developing experimental and numerical tools for the simulation of contact pheonmena which are typcially occuring in highly loaded machine elements, such as gears, bearings, or wheel-rail contacts. Also, I have a formal education in Computer Science, which was focused on Machine Learning, from TU Graz.
+Within my last position I have been working as a Development Engineer within AVL Group on a new Piezoelectric Torque Sensor mainly for applications in Automotive and Racing. Specifically my taks were the creation of methodologies for calibration, processing, drift correction and the design of software and algorithms which utilize the raw data from the sensors in order to create valuable information for the end-user.
+Before that I have obtained a PhD in Mechanical Engineering und Numerical Mathematics at Montanuniversitaet Leoben. Within the scope of this thesis I have been developing experimental and numerical tools for the simulation of contact phenomena which are typcially occuring in highly loaded machine elements, such as gears, bearings, or wheel-rail contacts. Also, I have a formal education in Computer Science, which was focused on Machine Learning, from TU Graz.
 
 ## Publications
 
